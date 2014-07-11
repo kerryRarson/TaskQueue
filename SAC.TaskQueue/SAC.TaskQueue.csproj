@@ -61,10 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\COL.Slice\COL.Tasks.csproj">
+      <Project>{e721d9a6-c992-47c3-943a-85235e4eb1b9}</Project>
+      <Name>COL.Tasks</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SAC.MLBFileDownloader\SAC.MLBFileDownloader.csproj">
       <Project>{3293e13a-7a1a-4e37-8c6d-9e5b36f88cb0}</Project>
       <Name>SAC.MLBFileDownloader</Name>
