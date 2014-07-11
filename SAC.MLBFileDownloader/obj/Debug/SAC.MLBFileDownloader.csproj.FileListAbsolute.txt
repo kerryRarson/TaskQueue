@@ -1,0 +1,9 @@
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\SAC.MLBFileDownloader.dll
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\SAC.MLBFileDownloader.pdb
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\SAC.TaskQueueBase.dll
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\EntityFramework.dll
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\SAC.TaskQueueBase.pdb
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\bin\Debug\EntityFramework.xml
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\obj\Debug\SAC.MLBFileDownloader.csprojResolveAssemblyReference.cache
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\obj\Debug\SAC.MLBFileDownloader.dll
+C:\apps\SAC\TaskQueue\SAC.MLBFileDownloader\obj\Debug\SAC.MLBFileDownloader.pdb
